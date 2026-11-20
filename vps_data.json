@@ -1,0 +1,214 @@
+{
+    "1481242426088886295": [
+        {
+            "container_name": "vps-1481242426088886295-1",
+            "ram": "190GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T07:00:54.222523",
+            "expires": "Never",
+            "ipv4": "25.23.234.198",
+            "ssh_password": "8n1M2DYGoEOB1mm0",
+            "shared_with": [],
+            "node": "node1"
+        }
+    ],
+    "1510205568231411752": [
+        {
+            "container_name": "vps-1510205568231411752-1",
+            "ram": "16GB",
+            "cpu": "2",
+            "storage": "80GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T07:01:32.929053",
+            "expires": "Never",
+            "ipv4": "183.68.100.37",
+            "ssh_password": "cpIl77G0Cq9mOY@n",
+            "shared_with": [],
+            "node": "node8"
+        }
+    ],
+    "1520903362667876523": [
+        {
+            "container_name": "vps-1520903362667876523-1",
+            "ram": "190GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T07:47:23.147014",
+            "expires": "Never",
+            "ipv4": "124.246.72.84",
+            "ssh_password": "j$Q962CEQr2z$tZz",
+            "shared_with": [],
+            "node": "node2"
+        },
+        {
+            "container_name": "vps-1520903362667876523-2",
+            "plan": "32 GB VPS",
+            "ram": "32GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T09:08:15.879078",
+            "expires": "Never",
+            "ipv4": "191.117.225.116",
+            "username": "root",
+            "ssh_password": "ROw4Y2AZhGBp8js!",
+            "ssh_port": 10004,
+            "shared_with": [],
+            "node": "node2",
+            "site": ""
+        },
+        {
+            "container_name": "vps-1520903362667876523-3",
+            "ram": "190GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-19T11:17:39.710630",
+            "expires": "Never",
+            "ipv4": "163.150.231.148",
+            "ssh_password": "047ISg!X5M5r#Gx4",
+            "shared_with": [],
+            "node": "node2"
+        }
+    ],
+    "1290974537990803586": [
+        {
+            "container_name": "vps-1290974537990803586-1",
+            "plan": "32 GB VPS",
+            "ram": "32GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T07:57:43.515297",
+            "expires": "Never",
+            "ipv4": "112.22.217.19",
+            "username": "root",
+            "ssh_password": "qp7fu4fM!8EVsKyi",
+            "ssh_port": 10000,
+            "shared_with": [],
+            "node": "node1",
+            "site": ""
+        }
+    ],
+    "1490164691023171745": [
+        {
+            "container_name": "vps-1490164691023171745-1",
+            "plan": "32 GB VPS",
+            "ram": "32GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T07:58:52.389359",
+            "expires": "Never",
+            "ipv4": "22.228.141.31",
+            "username": "root",
+            "ssh_password": "4VxQGifOOq#fhhfl",
+            "ssh_port": 10001,
+            "shared_with": [],
+            "node": "node1",
+            "site": ""
+        }
+    ],
+    "1530133471039590486": [
+        {
+            "container_name": "vps-1530133471039590486-1",
+            "plan": "32 GB VPS",
+            "ram": "32GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T08:11:28.973455",
+            "expires": "Never",
+            "ipv4": "83.102.156.196",
+            "username": "root",
+            "ssh_password": "LeHTMgltx@!jByWa",
+            "ssh_port": 10002,
+            "shared_with": [],
+            "node": "node1",
+            "site": ""
+        }
+    ],
+    "1431099255874916376": [
+        {
+            "container_name": "vps-1431099255874916376-1",
+            "plan": "32 GB VPS",
+            "ram": "32GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T09:08:55.684235",
+            "expires": "Never",
+            "ipv4": "197.70.105.26",
+            "username": "root",
+            "ssh_password": "%wvSdx6wgBAfksnh",
+            "ssh_port": 10004,
+            "shared_with": [],
+            "node": "node1",
+            "site": ""
+        }
+    ],
+    "1489844492134781048": [
+        {
+            "container_name": "vps-1489844492134781048-1",
+            "ram": "190GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T10:15:11.226440",
+            "expires": "Never",
+            "ipv4": "101.164.199.142",
+            "ssh_password": "UgXc7S4o8%x3ec5Z",
+            "shared_with": [],
+            "node": "node2"
+        }
+    ],
+    "1431542387041112068": [
+        {
+            "container_name": "vps-1431542387041112068-1",
+            "plan": "32 GB VPS",
+            "ram": "32GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:22.04",
+            "created_at": "2026-11-17T10:52:44.787276",
+            "expires": "Never",
+            "ipv4": "168.195.26.206",
+            "username": "root",
+            "ssh_password": "D$4n#1!PbEtmoOLU",
+            "ssh_port": 10003,
+            "shared_with": [],
+            "node": "node1",
+            "site": ""
+        }
+    ],
+    "1393076213370720392": [
+        {
+            "container_name": "vps-1393076213370720392-1",
+            "ram": "7GB",
+            "cpu": "4",
+            "storage": "100GB",
+            "status": "running",
+            "os": "ubuntu:24.04",
+            "created_at": "2026-11-19T09:59:53.125326",
+            "expires": "Never",
+            "ipv4": "177.85.197.220",
+            "ssh_password": "xQU3mdR1wwdjj#SJ",
+            "shared_with": [],
+            "node": "node2"
+        }
+    ]
+}
